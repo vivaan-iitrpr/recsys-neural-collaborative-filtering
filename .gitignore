@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/ml-25m/
+mlruns/
+wandb/
+*.pt
+*.pth
+.env
+venv/
