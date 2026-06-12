@@ -219,12 +219,3 @@ All 40+ experiments tracked via **MLflow** and **Weights & Biases**, including:
 - [MovieLens 25M Dataset — GroupLens Research](https://grouplens.org/datasets/movielens/25m/)
 
 ---
-
-## 👤 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
-*Built as part of preparation for Amazon ML Summer School 2026*
